@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Terbaik</title>
+    <link>https://linuxterbaik.github.io/</link>
+    <description>Recent content on Linux Terbaik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2022 07:20:43 +0700</lastBuildDate><atom:link href="https://linuxterbaik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review Deepin 20.6 Terbaru 2022</title>
+      <link>https://linuxterbaik.github.io/posts/review-deepin-20.6-terbaru-2022/</link>
+      <pubDate>Mon, 20 Jun 2022 07:20:43 +0700</pubDate>
+      
+      <guid>https://linuxterbaik.github.io/posts/review-deepin-20.6-terbaru-2022/</guid>
+      <description>Apa itu Deepin Linux? Deepin 20.6 adalah release terbaru dari Deepin Linux.
+Ini sangat menarik untuk digunakan. Saya pun pakai sudah cukup lama.
+Dibandingkan dengan distro lainnya, Deepin memiliki tampilan paling bening. Paling betah di mata (menurut saya sih). Saya pun merekomendasikan Anda untuk menggunakan ini sebagai daily driver.
+Apa Kekurangan Deepin Linux? Tidak ada yang sempurna. Deepin Linux menggunakan basis Debian sehingga secara paket tentu tidak akan secepat Arch Linux atau bahkan Ubuntu Linux.</description>
+    </item>
+    
+    <item>
+      <title>Linux Terbaik Kembali Lagi!</title>
+      <link>https://linuxterbaik.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 20 Jun 2022 07:10:26 +0700</pubDate>
+      
+      <guid>https://linuxterbaik.github.io/posts/my-first-post/</guid>
+      <description>Why? Karena Wordpress sering trouble, akhirnya saya harus mencoba Hugo sebagai alternatifnya.
+So? So far so good. Saya bisa mendapatkan excitement, kesenangan, yang sebelumnya tidak dirasakan ketika dibandingkan dengan menggunakan Wordpress.
+Saya merasa punya kontrol pada sistem yang saya punya ini.
+Bukannya Wordpress tidak bagus. Wordpress is great. Hanya saja untuk kasus saya saat ini, Wordpress bisa jadi belum menjadi solusi terbaik.
+:-)</description>
+    </item>
+    
+  </channel>
+</rss>

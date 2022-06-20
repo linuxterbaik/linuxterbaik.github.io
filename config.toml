@@ -1,0 +1,10 @@
+baseURL = 'https://linuxterbaik.github.io/'
+languageCode = 'en-us'
+title = 'Linux Terbaik'
+theme = "paper"
+
+[params]
+  disableHLJS = true
+  twitter = 'adistoday'
+  github = 'adistoday'
+  instagram = 'pabrikkupinggajah'
