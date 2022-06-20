@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://linuxterbaik.github.io/posts/fedora-36-review-indonesia/</loc>
+    <lastmod>2022-06-20T08:15:50+07:00</lastmod>
+  </url><url>
     <loc>https://linuxterbaik.github.io/</loc>
-    <lastmod>2022-06-20T07:20:43+07:00</lastmod>
+    <lastmod>2022-06-20T08:15:50+07:00</lastmod>
   </url><url>
     <loc>https://linuxterbaik.github.io/posts/</loc>
-    <lastmod>2022-06-20T07:20:43+07:00</lastmod>
+    <lastmod>2022-06-20T08:15:50+07:00</lastmod>
   </url><url>
     <loc>https://linuxterbaik.github.io/posts/review-deepin-20.6-terbaru-2022/</loc>
     <lastmod>2022-06-20T07:20:43+07:00</lastmod>
