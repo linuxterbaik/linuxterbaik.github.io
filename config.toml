@@ -1,4 +1,4 @@
-baseURL = 'https://linuxterbaik.github.io/'
+baseURL = 'https://linuxterbaik.netlify.app/'
 languageCode = 'en-us'
 title = 'Linux Terbaik'
 theme = "paper"
@@ -6,5 +6,3 @@ theme = "paper"
 [params]
   disableHLJS = true
   twitter = 'adistoday'
-  github = 'adistoday'
-  instagram = 'pabrikkupinggajah'
